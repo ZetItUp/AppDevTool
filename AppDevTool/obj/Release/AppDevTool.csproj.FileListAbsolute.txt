@@ -1,0 +1,11 @@
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\bin\Release\AppDevTool.exe.config
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\bin\Release\AppDevTool.exe
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\bin\Release\AppDevTool.pdb
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\obj\Release\AppDevTool.frmConsoleDesigner.resources
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\obj\Release\AppDevTool.frmMain.resources
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\obj\Release\AppDevTool.frmNewProject.resources
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\obj\Release\AppDevTool.Properties.Resources.resources
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\obj\Release\AppDevTool.csproj.GenerateResource.Cache
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\obj\Release\AppDevTool.exe
+C:\Users\ZetItUp\Documents\Visual Studio 2015\Projects\AppDevTool\AppDevTool\obj\Release\AppDevTool.pdb
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Release\AppDevTool.csprojResolveAssemblyReference.cache

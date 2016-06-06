@@ -1,0 +1,16 @@
+c:\users\zetitup\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\bin\Debug\AppDevTool.exe.config
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\bin\Debug\AppDevTool.exe
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\bin\Debug\AppDevTool.pdb
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.frmMain.resources
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.frmNewProject.resources
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.Properties.Resources.resources
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.csproj.GenerateResource.Cache
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.exe
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.pdb
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.frmConsoleDesigner.resources
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\bin\Debug\AppDevTool.exe.CodeAnalysisLog.xml
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\bin\Debug\AppDevTool.exe.lastcodeanalysissucceeded
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.frmSourceCode.resources
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.SettingsForms.frmPrint.resources
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.frmPreferences.resources
+C:\Users\ZetItUp\documents\visual studio 2015\Projects\AppDevTool\AppDevTool\obj\Debug\AppDevTool.csprojResolveAssemblyReference.cache
